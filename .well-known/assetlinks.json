@@ -1,10 +1,14 @@
+
 [
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.reau5789_wq.jukkero",
-      "sha256_cert_fingerprints": ["47:74:BD:1B:D5:4E:05:51:5B:BB:3E:1C:13:0A:7C:4D:8D:0D:FC:F1:30:28:29:A6:47:FF:D1:F6:8D:51:21:5A"]
+      "sha256_cert_fingerprints": [
+        "47:74:BD:1B:D5:4E:05:51:5B:BB:3E:1C:13:0A:7C:4D:8D:0D:FC:F1:30:28:29:A6:47:FF:D1:F6:8D:51:21:5A",
+        "F1:5D:EA:D6:62:C1:6E:98:69:AC:9A:D0:B8:FE:6C:19:64:DD:D3:92:62:B8:61:29:23:6B:17:4B:24:1D:AE:D0"
+      ]
     }
   }
 ]
