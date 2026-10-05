@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.reau5789_wq.jukkero",
+      "sha256_cert_fingerprints": ["47:74:BD:1B:D5:4E:05:51:5B:BB:3E:1C:13:0A:7C:4D:8D:0D:FC:F1:30:28:29:A6:47:FF:D1:F6:8D:51:21:5A"]
+    }
+  }
+]
